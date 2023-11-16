@@ -1,0 +1,38 @@
+.footer {
+  margin-top: 110px;
+  padding: 20px 100px;
+  line-height: 40px;
+}
+
+.footer-center span {
+  margin-right: 10px;
+}
+
+.footer-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer-center {
+  margin-top: 10px;
+}
+
+.footer-center a:link,
+.footer-center a:visited {
+  display: block;
+  color: #000000;
+  font-size: 15px;
+}
+
+.footer-center div {
+  color: #000000;
+  font-size: 15px;
+}
+
+.footer-center h3 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}

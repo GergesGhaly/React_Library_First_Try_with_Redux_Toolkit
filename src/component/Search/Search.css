@@ -1,0 +1,12 @@
+.Search {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.serach-bar {
+  font-size: 20px;
+  padding: 0 20px;
+  width: 90%;
+  height: 40px;
+}

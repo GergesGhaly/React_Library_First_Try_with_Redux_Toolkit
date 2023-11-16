@@ -1,0 +1,50 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  margin: 10px auto;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.card .card-img img {
+  width: 100%;
+}
+
+.card-ifo {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card .card-book {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.pric {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.pric span {
+  font-size: 20px;
+}
+
+button {
+  margin-top: 5px;
+  padding: 8px 15px;
+  border: none;
+  width: 100%;
+  background-color: black;
+  color: rgb(255, 255, 255);
+}
+button:hover {
+  background-color: rgb(44, 44, 44);
+}
